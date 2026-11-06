@@ -20,7 +20,7 @@ and evaluate the reliability of operational event records.
 - `stops_log.csv` – Operational event records.
 - `turbine_metadata.csv` – Turbine information and service history.
 - `outputs/` – Exported analytical results and visualizations.
-- `stakeholder_brief.md` – Executive summary and operational
+- `AS brief.pdf` – Executive summary and operational
   recommendations.
 - `requirements.txt` – Python dependencies.
 
